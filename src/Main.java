@@ -18,8 +18,8 @@ public class Main {
 
         Boolean a = true;
         Character b = '#';
-        Integer c = 567;
-        Double d = 5.67;
+        Integer c = 56;
+        Double d = 5.9;
         String e = "Kimtai";
 
         if (a==true){
