@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cf163d0-c67d-4ecc-b844-3b7ad182f842" name="Changes" comment="switched values">
+    <list default="true" id="9cf163d0-c67d-4ecc-b844-3b7ad182f842" name="Changes" comment="switched values of boolean">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667675206050</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="switched values of c and d">
+      <created>1667760058762</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667760058762</updated>
+    </task>
+    <task id="LOCAL-00003" summary="switched values of boolean">
+      <created>1667760130785</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667760130785</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,6 +77,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="switched values" />
-    <option name="LAST_COMMIT_MESSAGE" value="switched values" />
+    <MESSAGE value="switched values of c and d" />
+    <MESSAGE value="switched values of boolean" />
+    <option name="LAST_COMMIT_MESSAGE" value="switched values of boolean" />
   </component>
 </project>
